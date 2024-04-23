@@ -14,7 +14,7 @@ This is a static Solidity vulnerabilities scanner written in Python. It works ba
 
 	pip install click
 	pip install termcolor
-        pip insatll pyfiglet
+   pip insatll pyfiglet
 
 
 ## Run the static test:
